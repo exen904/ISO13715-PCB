@@ -1,0 +1,325 @@
+{
+    "id": "01JBY3RADDVT616FS2K49HEWKF",
+    "name": "ISO13715",
+    "manufacturer": "exen904",
+    "description": "",
+    "tags": [],
+    "controller": "",
+    "keyboardType": "normal",
+    "wiringMethod": "matrix",
+    "diodeDirection": "COL2ROW",
+    "rows": 3,
+    "cols": 5,
+    "pins": 0,
+    "rowPins": [
+        "0",
+        "1",
+        "2"
+    ],
+    "colPins": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "29"
+    ],
+    "directPins": [],
+    "encoders": [],
+    "layouts": [
+        {
+            "name": "Variant 0",
+            "selected": 1,
+            "variants": []
+        }
+    ],
+    "keys": [
+        {
+            "x": 0,
+            "y": 0,
+            "matrix": [
+                0,
+                0
+            ],
+            "idx": 0
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "matrix": [
+                0,
+                1
+            ],
+            "idx": 1
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "matrix": [
+                0,
+                2
+            ],
+            "idx": 2
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "matrix": [
+                0,
+                3
+            ],
+            "idx": 3
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "matrix": [
+                0,
+                4
+            ],
+            "idx": 4
+        },
+        {
+            "x": 5.25,
+            "y": 0,
+            "w": 1.25,
+            "h": 2,
+            "w2": 1.5,
+            "h2": 1,
+            "x2": -0.25,
+            "matrix": [
+                4,
+                1
+            ],
+            "idx": 9
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "w": 1.75,
+            "matrix": [
+                1,
+                0
+            ],
+            "idx": 5
+        },
+        {
+            "x": 1.75,
+            "y": 1,
+            "matrix": [
+                1,
+                1
+            ],
+            "idx": 6
+        },
+        {
+            "x": 2.75,
+            "y": 1,
+            "matrix": [
+                2,
+                1
+            ],
+            "idx": 7
+        },
+        {
+            "x": 3.75,
+            "y": 1,
+            "matrix": [
+                3,
+                1
+            ],
+            "idx": 8
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "w": 1.25,
+            "matrix": [
+                2,
+                0
+            ],
+            "variant": [
+                0,
+                0
+            ],
+            "idx": 11
+        },
+        {
+            "x": 2.25,
+            "y": 2,
+            "w": 2,
+            "matrix": [
+                2,
+                2
+            ],
+            "variant": [
+                0,
+                0
+            ],
+            "idx": 12
+        },
+        {
+            "x": 4.25,
+            "y": 2,
+            "w": 1.25,
+            "matrix": [
+                2,
+                3
+            ],
+            "variant": [
+                0,
+                0
+            ],
+            "idx": 13
+        },
+        {
+            "x": 0.25,
+            "y": 2,
+            "matrix": [
+                2,
+                0
+            ],
+            "variant": [
+                0,
+                1
+            ],
+            "idx": 10
+        },
+        {
+            "x": 1.25,
+            "y": 2,
+            "matrix": [
+                2,
+                1
+            ],
+            "variant": [
+                0,
+                1
+            ],
+            "idx": 11
+        },
+        {
+            "x": 2.25,
+            "y": 2,
+            "w": 2,
+            "matrix": [
+                2,
+                2
+            ],
+            "variant": [
+                0,
+                1
+            ],
+            "idx": 12
+        },
+        {
+            "x": 4.25,
+            "y": 2,
+            "matrix": [
+                2,
+                3
+            ],
+            "variant": [
+                0,
+                1
+            ],
+            "idx": 13
+        },
+        {
+            "x": 5.25,
+            "y": 2,
+            "matrix": [
+                2,
+                4
+            ],
+            "variant": [
+                0,
+                1
+            ],
+            "idx": 14
+        }
+    ],
+    "keymap": [
+        [
+            "KC.A",
+            "KC.B",
+            "KC.C",
+            "KC.D",
+            "KC.E",
+            "KC.F",
+            "KC.G",
+            "KC.H",
+            "KC.J",
+            "KC.K",
+            "KC.Z",
+            "KC.X",
+            "KC.C",
+            "KC.V",
+            "KC.B"
+        ]
+    ],
+    "encoderKeymap": [
+        []
+    ],
+    "layers": [
+        {
+            "name": ""
+        }
+    ],
+    "split": false,
+    "splitPinA": "",
+    "splitPinB": "",
+    "splitSide": "left",
+    "vbusPin": "VBUS_SENSE",
+    "splitUsePio": true,
+    "splitFlip": false,
+    "spitUartFlip": false,
+    "coordMap": [
+        [
+            "000",
+            "001",
+            "002",
+            "003",
+            "004"
+        ],
+        [
+            "005",
+            "006",
+            "007",
+            "008",
+            "009"
+        ],
+        [
+            "010",
+            "011",
+            "012",
+            "013",
+            "014"
+        ]
+    ],
+    "pinPrefix": "gp",
+    "coordMapSetup": false,
+    "rgbPin": "board.GP28",
+    "rgbNumLeds": 3,
+    "rgbOptions": {
+        "animationMode": 1,
+        "hueDefault": 203,
+        "satDefault": 251,
+        "valDefault": 122,
+        "animationSpeed": 1,
+        "breatheCenter": 1,
+        "knightEffectLength": 5
+    },
+    "kbFeatures": [
+        "basic",
+        "serial",
+        "oneshot",
+        "tapdance",
+        "holdtap",
+        "mousekeys",
+        "combos",
+        "macros",
+        "rgb"
+    ],
+    "flashingMode": "automatic",
+    "lastEdited": "2024-11-06 11:51"
+}

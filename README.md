@@ -17,7 +17,7 @@ For the MCU you have two options. Either XIAO RP2040, or Waveshare RP2040 Zero/0
 The current case only supports the HHKB bottom row with 2x 1U keys, the version with the larger blockers is still on my todo. If you cant wait though, feel free to edit the STEP files to your needs. For the diffusor, I chose transparent PETG and for a more unified look, changed the last layer to white.
 
 ## Firmware
-Another todo, QMK is comming soon(tm). Currently im running a version of KMK created with POG to drive my prototype.
+Another todo, QMK is comming soon(tm). Currently im running a version of KMK created with POG to drive my prototype. I added my files from the POG generated KMK, not sure if this works how intended though. Once the QMK port is ready, I link it here.
 
 ### KLE layout options
 
