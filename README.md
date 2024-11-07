@@ -1,4 +1,7 @@
 # ISO13715 Macropad
+
+![built macropad](https://github.com/exen904/ISO13715-PCB/blob/main/pictures/built.jpg)
+
 Name derives from DIN ISO 13715 ```Kanten mit unbestimmter Gestalt```. Depending on the layout you choose for the bottom row 13/15 keys, 7 where the regular Alpha cluster would be and ISO should be obvious. 
 
 ## BOM
@@ -18,4 +21,4 @@ Another todo, QMK is comming soon(tm). Currently im running a version of KMK cre
 
 ### KLE layout options
 
-![Screenshot of KLE](https://github.com/exen904/el-misero/blob/main/pictures/kle.jpg)
+![Screenshot of KLE](https://github.com/exen904/ISO13715-PCB/blob/main/pictures/kle.jpg)
