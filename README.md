@@ -24,3 +24,6 @@ Another todo, QMK is comming soon(tm). Currently im running a version of KMK cre
 ### KLE layout options
 
 ![Screenshot of KLE](https://github.com/exen904/ISO13715-PCB/blob/main/pictures/kle.jpg)
+
+## Build Guide
+[You can find the build guide for the PCB here](https://github.com/exen904/ISO13715-PCB/blob/main/build_guide.md)
