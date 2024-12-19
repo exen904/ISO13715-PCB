@@ -484,7 +484,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "ISO13715.step",
+      "step": "../../../Desktop/ISO13715_unoptimized.step",
       "svg": "",
       "vrml": ""
     },

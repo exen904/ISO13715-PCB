@@ -449,6 +449,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u_3D"
 		(layer "F.Cu")
@@ -737,6 +748,17 @@
 			(uuid "e0c4b297-37b8-46ba-ade3-7eb7ccd0312f")
 		)
 		(model "${KICAD7_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_Plate.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1045,6 +1067,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u_3D"
 		(layer "F.Cu")
@@ -1333,6 +1366,17 @@
 			(uuid "eb01628a-ea91-4e7f-bfd9-1787e52e0e3e")
 		)
 		(model "${KICAD7_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_Plate.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1641,6 +1685,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u_3D"
 		(layer "F.Cu")
@@ -1929,6 +1984,17 @@
 			(uuid "bf8b8f12-d9c2-4950-a4fb-2886f10f6d8a")
 		)
 		(model "${KICAD7_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_Plate.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2523,6 +2589,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u_3D"
 		(layer "F.Cu")
@@ -2811,6 +2888,17 @@
 			(uuid "1153832e-3ad5-4a09-9d85-64cc2dcf1573")
 		)
 		(model "${KICAD7_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_Plate.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3427,6 +3515,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u_3D"
 		(layer "F.Cu")
@@ -3715,6 +3814,17 @@
 			(uuid "e4f38ef5-aa5f-41db-837b-c1044ec0c972")
 		)
 		(model "${KICAD7_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_Plate.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4023,6 +4133,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u_3D"
 		(layer "F.Cu")
@@ -4311,6 +4432,17 @@
 			(uuid "cfe9f508-cbe2-4d4e-888b-4caa3ef959ac")
 		)
 		(model "${KICAD7_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_Plate.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4896,6 +5028,17 @@
 			(uuid "03670480-191c-4008-bc05-edbf46405da6")
 		)
 		(model "${KICAD7_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_Plate.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5891,6 +6034,17 @@
 			(uuid "78de3b53-1113-4296-ba64-39a2ed9a7123")
 		)
 		(model "${KICAD7_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_Plate.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "/home/daniel/.local/share/kicad/7.0/3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7932,6 +8086,17 @@
 		(model "${KICAD7_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x07_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 7.62 7.62 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/seeeduino_xiao_rp2040.step"
+			(offset
+				(xyz 0 0 2.5)
 			)
 			(scale
 				(xyz 1 1 1)
