@@ -7,7 +7,7 @@ Name derives from DIN ISO 13715 ```Kanten mit unbestimmter Gestalt```. Depending
 Huge shoutout to PCBway, who sponsored the run of the matte black PCB I used in the build guide. No strings attached here, if you want a matte black PCB, thats the way to go.
 
 ## PCB
-You can find the Gerber files for ordering your own PCB in the `productuion` folder. For service I can absolutely recommend PCBway, who also reachead out to me and sponsored a run of my prototype PCBs with the matte black and yellow silkscreen option. 
+You can find the Gerber files for ordering your own PCB in the `production` folder. For service I can absolutely recommend PCBway, who also reachead out to me and sponsored a run of my prototype PCBs with the matte black and yellow silkscreen option. 
 
 ![PCBway PCB](https://github.com/exen904/ISO13715-PCB/blob/main/pictures/pcb.jpg)
 
