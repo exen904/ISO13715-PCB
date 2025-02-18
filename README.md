@@ -7,7 +7,7 @@ Name derives from DIN ISO 13715 ```Kanten mit unbestimmter Gestalt```. Depending
 Huge shoutout to PCBway, who sponsored the run of the matte black PCB I used in the build guide. No strings attached here, if you want a matte black PCB, thats the way to go.
 
 ## PCB
-You can find the Gerber files for ordering your own PCB in the `PCB\production` folder. For service I can absolutely recommend PCBway, who also reachead out to me and sponsored a run of my prototype PCBs with the matte black and yellow silkscreen option. 
+You can find the Gerber files for ordering your own PCB in the `PCB\production` folder. For service I can absolutely recommend PCBway, who as mentioned above, sponsored my prototype run. Service was great and they deliver quality work, so I can really recommend them.
 
 ![PCBway PCB](https://github.com/exen904/ISO13715-PCB/blob/main/pictures/pcb.jpg)
 
@@ -29,7 +29,9 @@ The current case only supports the HHKB bottom row with 2x 1U keys, the version 
 For printing, I recommend 0.2mm layer height, anything around 10% infill. How tight the plate works for you also depends on the swichtes you choose, if its too loose you can play around with the XY Hole compensation in your slicer.
 
 ## Firmware
-Another todo, QMK is comming soon(tm). Currently im running a version of KMK created with POG to drive my prototype. I added my files from the POG generated KMK, not sure if this works how intended though. Once the QMK port is ready, I link it here.
+I started with a very basic KMK firmware based of POG to test everything, which is still included here in the Repo. However, now I also finished the QMK-VIAL port for the board. I only tested this on a 0xCB Gemini, not on a Xiao RP2040. As the Xiao exposes different pins, those need to be changed before compiling the firmware. I currently dont have one on hand to test, so Im not going to provide untested firmware files. Please adjust here for yourself.
+
+If you are using a Helios/RP2040 Zero, you can use the provided `iso13715_vial_gemini.uf2` in the `Firmware` folder. The VIAL firmware also has bootmagic enabled, so to get into bootloader mode, you just need to hold down the imaginary `ESC` key on the board.
 
 ### KLE layout options
 
